@@ -60,7 +60,7 @@ dependencies:
   # Custom Packages
   cct_config:
     git:
-      url: https://gitlab.blisshub.com/concuatui/frontend/cct_config
+      url: https://github.com/NinhLuong/flutter_clearn_architecture_config.git
       ref: main
 
 dev_dependencies:
